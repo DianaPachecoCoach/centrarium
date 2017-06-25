@@ -1,16 +1,26 @@
 ---
 layout: page
-title: About
+title: Acerca de mí
 permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Me llamo Diana, soy originaria de las Azores, en Portugal, y soy Coach. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Desde la universidad que me dedico a la hostelería, lo que más me motiva en este sector es el contacto humano, y hacer que mis contactos sientan apreciados como personas.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Todo iba bien hasta que un día me di cuenta que necesitaba más. Quería hacer más por las personas. Quería ser más util, ayudar más. Tras unos años de incertidumbre y búsqueda, encontré el coaching. 
+
+Con el coaching siento que puedo servir a los demás, y también a mí misma, en el cumplimento de mi misión de vida: "ayudar las personas de mi entorno a encontrar la mejor versión de si mismas, y a serla".
+
+Soy Coach desde Abril 2017, y lo hago compaginándolo con mi trabajo como comercial en una cadena hotelera. Así tengo lo mejor de los dos mundos, y soy feliz.
+
+Como hobbies tengo la jardinería, el yoga y la musica. 
+
+Soy poliglota y hago sesiones tanto en español, como ingles y portugues.
+
+Si estás buscando la mejor versión de ti mismo, ¿que paso vas a dar para conseguirla? 
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
