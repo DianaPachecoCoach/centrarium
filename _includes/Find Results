@@ -1,0 +1,208 @@
+Searching 256 files for "typog"
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/README.md:
+   55  
+   56  * `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
+   57: * `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
+   58  * `_layout.scss`: The primary styles for the layout and design of the theme. 
+   59  
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/typography.html:
+    1  ---
+    2  layout: page
+    3: title: Typography
+    4: permalink: /typography/
+    5  ---
+    6  
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/.sass-cache/81e35c1933cef03fe7e60ef06cfa0a93641a00b9/_base.scssc:
+    <binary>
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/.sass-cache/81e35c1933cef03fe7e60ef06cfa0a93641a00b9/_typography.scssc:
+    <binary>
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/.sass-cache/81e35c1933cef03fe7e60ef06cfa0a93641a00b9/_variables.scssc:
+    <binary>
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_sass/base/_base.scss:
+   13  @import "lists";
+   14  @import "tables";
+   15: @import "typography";
+   16  
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_sass/base/_variables.scss:
+    2  @import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700,300|Roboto:400,700,300|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+    3  
+    4: // Typography
+    5  $base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
+    6  $heading-font-family: "Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/index.html:
+  100          
+  101            
+  102:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  103            
+  104          
+  ...
+  198          
+  199          
+  200:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  201          
+  202          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/README.md:
+   55  
+   56  * `base/_variables.scss`: Common values found throughout the project, including base font size, font families, colors, and more.
+   57: * `base/_typography.scss`: Base typography values for the site (see `typography.html` for a demonstration)
+   58  * `_layout.scss`: The primary styles for the layout and design of the theme. 
+   59  
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/sitemap.xml:
+   15  </url>
+   16  <url>
+   17: <loc>http://bencentra.github.io/centrarium//typography/</loc>
+   18  </url>
+   19  </urlset>
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/about/index.html:
+  100          
+  101            
+  102:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  103            
+  104          
+  ...
+  176          
+  177          
+  178:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  179          
+  180          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/automotivación/2017/06/25/Intereses.html:
+   97          
+   98            
+   99:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  100            
+  101          
+  ...
+  269          
+  270          
+  271:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  272          
+  273          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/posts/index.html:
+  100          
+  101            
+  102:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  103            
+  104          
+  ...
+  179          
+  180          
+  181:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  182          
+  183          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/typography/index.html:
+    7    <meta name="viewport" content="width=device-width, initial-scale=1">
+    8  
+    9:   <title>Typography</title>
+   10    <meta name="description" content=""Blog personal de coaching, inteligencia emocional, neurocoaching y otras demás tonterías de la vida humana"
+   11  ">
+   ..
+   46    <meta property="og:url" content="http://bencentra.github.io" />
+   47    <meta property="og:site_name" content="Diana Pacheco Coaching" />
+   48:   <meta property="og:title" content="Typography" />
+   49    <meta property="og:type" content="website" />
+   50    <meta property="og:image" content="http://bencentra.github.io/centrarium/assets/logo.png" />
+   ..
+   55    <!-- Twitter: card tags -->
+   56    <meta name="twitter:card" content="summary">
+   57:   <meta name="twitter:title" content="Typography">
+   58    <meta name="twitter:description" content=""Blog personal de coaching, inteligencia emocional, neurocoaching y otras demás tonterías de la vida humana"
+   59  ">
+   ..
+   65  	<!-- Site styles -->
+   66    <link rel="stylesheet" href="/centrarium/css/main.css">
+   67:   <link rel="canonical" href="http://bencentra.github.io/centrarium//typography/">
+   68    <link rel="alternate" type="application/rss+xml" title="Diana Pacheco Coaching" href="http://bencentra.github.io/centrarium//feed.xml" />
+   69  </head>
+   ..
+  100          
+  101            
+  102:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  103            
+  104          
+  ...
+  114  
+  115    <header class="post-header">
+  116:     <h1 class="post-title">Typography</h1>
+  117    </header>
+  118  
+  ...
+  308          
+  309          
+  310:           <li class="nav-link"><a href="/centrarium/typography/">Typography</a>
+  311          
+  312          
+
+41 matches across 14 files
+
+
+Searching 254 files for "site map"
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_includes/footer.html:
+    7      <div class="site-navigation">
+    8      	
+    9:     	<p><strong>Site Map</strong></p>
+   10        <ul class="pages">
+   11          {% for page in site.pages %}
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/index.html:
+  176      <div class="site-navigation">
+  177      	
+  178:     	<p><strong>Site Map</strong></p>
+  179        <ul class="pages">
+  180          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/about/index.html:
+  154      <div class="site-navigation">
+  155      	
+  156:     	<p><strong>Site Map</strong></p>
+  157        <ul class="pages">
+  158          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/automotivación/2017/06/25/Intereses.html:
+  247      <div class="site-navigation">
+  248      	
+  249:     	<p><strong>Site Map</strong></p>
+  250        <ul class="pages">
+  251          
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/posts/index.html:
+  157      <div class="site-navigation">
+  158      	
+  159:     	<p><strong>Site Map</strong></p>
+  160        <ul class="pages">
+  161          
+
+5 matches across 5 files
+
+
+Searching 254 files for "view all posts"
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/index.html:
+   82    </p>
+   83    <p>
+   84:     <a href="{{ site.baseurl }}posts">Ver todos los posts por categoría</a>
+   85    </p>
+   86  </nav>
+
+/Users/dianapachecoamaral/Documents/WebSite/centrarium/_site/index.html:
+  159    </p>
+  160    <p>
+  161:     <a href="/website/posts">Ver todos los posts por categoría</a>
+  162    </p>
+  163  </nav>
+
+2 matches across 2 files
