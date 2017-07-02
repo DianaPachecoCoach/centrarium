@@ -13,9 +13,10 @@ email: dianapachecoamaral@gmail.com
 name: Diana Pacheco Amaral
 description: > 
   "Blog personal de coaching, inteligencia emocional, neurocoaching y otras demás tonterías de la vida humana"
-url: "http://dianapachecocoach.github.io/" # the base hostname & protocol for your site
+url: "http://dianapachecocoach.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
+baseurl: "/" # the subpath of your site, e.g. /blog/
 
 # Build settings
 markdown: kramdown
